@@ -1,0 +1,113 @@
+{
+    "Categories": {
+      "Broccoli Potions": [
+        {
+          "Recipe Name": "Cheesy Broccoli Potion",
+          "Ingredients": [
+            "2 cups of broccoli florets",
+            "1/2 cup of cheddar cheese, grated",
+            "1/4 cup of milk",
+            "1 tablespoon of butter",
+            "Salt and pepper to taste"
+          ],
+          "Instructions": [
+            "Steam the broccoli until tender.",
+            "In a saucepan, melt the butter and add the milk and cheese.",
+            "Stir until the cheese is melted and the sauce is smooth.",
+            "Pour the cheese sauce over the steamed broccoli.",
+            "Season with salt and pepper to taste."
+          ]
+        },
+        {
+          "Recipe Name": "Mystery Broccoli Elixir",
+          "Ingredients": [
+            "2 cups of broccoli florets",
+            "1/2 cup of vegetable broth",
+            "1/4 cup of sour cream",
+            "1/4 teaspoon of thyme",
+            "Lemon zest",
+            "Salt and pepper to taste"
+          ],
+          "Instructions": [
+            "Steam the broccoli until tender.",
+            "Blend the steamed broccoli, vegetable broth, sour cream, thyme, and lemon zest until smooth.",
+            "Return the mixture to a pot, reheat gently, and season with salt and pepper."
+          ]
+        }
+      ],
+      "Broccoli Side Dishes": [
+        {
+          "Recipe Name": "Butterbeer Glazed Broccoli",
+          "Ingredients": [
+            "2 cups of broccoli florets",
+            "2 tablespoons of butter",
+            "2 tablespoons of butterscotch syrup",
+            "Salt and pepper to taste"
+          ],
+          "Instructions": [
+            "Steam the broccoli until tender.",
+            "In a pan, melt the butter and butterscotch syrup.",
+            "Add the steamed broccoli and toss to coat.",
+            "Season with salt and pepper."
+          ]
+        },
+        {
+          "Recipe Name": "Herb-Infused Broccoli Medley",
+          "Ingredients": [
+            "2 cups of broccoli florets",
+            "1 tablespoon of olive oil",
+            "1/2 teaspoon of dried basil",
+            "1/2 teaspoon of dried rosemary",
+            "1/2 teaspoon of dried thyme",
+            "Salt and pepper to taste"
+          ],
+          "Instructions": [
+            "Steam the broccoli until tender.",
+            "In a bowl, toss the steamed broccoli with olive oil and dried herbs.",
+            "Season with salt and pepper."
+          ]
+        }
+      ],
+      "Broccoli Main Courses": [
+        {
+          "Recipe Name": "Baked Broccoli Mac and Cheese",
+          "Ingredients": [
+            "2 cups of broccoli florets",
+            "2 cups of macaroni",
+            "2 cups of cheddar cheese, grated",
+            "2 cups of milk",
+            "2 tablespoons of butter",
+            "2 tablespoons of all-purpose flour",
+            "Salt and pepper to taste"
+          ],
+          "Instructions": [
+            "Steam the broccoli until tender and set aside.",
+            "Cook the macaroni according to package instructions, then drain.",
+            "In a saucepan, melt the butter, add the flour, and cook until it forms a paste.",
+            "Gradually whisk in the milk and cook until the sauce thickens.",
+            "Stir in the grated cheese until smooth.",
+            "Combine the cooked macaroni, steamed broccoli, and cheese sauce.",
+            "Bake at 350°F (175°C) for 20-25 minutes or until golden and bubbly."
+          ]
+        },
+        {
+          "Recipe Name": "Broccoli and Cheddar Stuffed Potatoes",
+          "Ingredients": [
+            "2 large baking potatoes",
+            "2 cups of broccoli florets",
+            "1 cup of cheddar cheese, grated",
+            "1/4 cup of sour cream",
+            "Chives for garnish",
+            "Salt and pepper to taste"
+          ],
+          "Instructions": [
+            "Bake the potatoes until tender.",
+            "Steam the broccoli until tender and set aside.",
+            "Cut open the baked potatoes, fluff the insides, and mix with sour cream, cheddar cheese, and steamed broccoli.",
+            "Season with salt and pepper and garnish with chives."
+          ]
+        }
+      ]
+    }
+  }
+  

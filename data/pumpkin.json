@@ -1,0 +1,119 @@
+{
+    "Categories": {
+      "Pumpkin Pastries": [
+        {
+          "Recipe Name": "Pumpkin Pasties",
+          "Ingredients": [
+            "2 cups of pumpkin puree",
+            "1/2 cup of sugar",
+            "1 teaspoon of cinnamon",
+            "1/2 teaspoon of nutmeg",
+            "1/4 teaspoon of cloves",
+            "Pastry dough",
+            "Egg wash (1 egg beaten with a splash of milk)"
+          ],
+          "Instructions": [
+            "Mix pumpkin puree, sugar, and spices in a bowl.",
+            "Roll out the pastry dough and cut it into small circles.",
+            "Place a spoonful of the pumpkin mixture in the center of each circle.",
+            "Fold the dough over to create a half-moon shape and crimp the edges with a fork.",
+            "Brush the pasties with egg wash.",
+            "Bake at 375°F (190°C) for 20-25 minutes or until golden brown."
+          ]
+        },
+        {
+          "Recipe Name": "Pumpkin Tartlets",
+          "Ingredients": [
+            "1 cup of pumpkin puree",
+            "1/2 cup of brown sugar",
+            "1/2 teaspoon of ginger",
+            "1/2 teaspoon of cinnamon",
+            "1/4 teaspoon of nutmeg",
+            "Mini tart shells",
+            "Whipped cream for garnish"
+          ],
+          "Instructions": [
+            "Mix pumpkin puree, brown sugar, and spices in a bowl.",
+            "Spoon the mixture into mini tart shells.",
+            "Bake at 350°F (175°C) for 15-20 minutes or until set.",
+            "Let cool and garnish with whipped cream."
+          ]
+        }
+      ],
+      "Pumpkin Drinks": [
+        {
+          "Recipe Name": "Pumpkin Juice",
+          "Ingredients": [
+            "2 cups of pumpkin juice",
+            "1/2 cup of apple juice",
+            "1/4 cup of honey",
+            "Cinnamon sticks",
+            "Ground nutmeg"
+          ],
+          "Instructions": [
+            "Combine the pumpkin juice, apple juice, and honey in a saucepan.",
+            "Add cinnamon sticks and a pinch of ground nutmeg.",
+            "Simmer for 15 minutes, then remove the cinnamon sticks.",
+            "Serve warm or chilled."
+          ]
+        },
+        {
+          "Recipe Name": "Butterbeer with a Pumpkin Twist",
+          "Ingredients": [
+            "1 cup of butterscotch syrup",
+            "1/2 cup of pumpkin puree",
+            "2 cups of cream soda",
+            "Whipped cream",
+            "Caramel sauce"
+          ],
+          "Instructions": [
+            "Mix butterscotch syrup and pumpkin puree in a saucepan over low heat.",
+            "Stir until well combined, then cool.",
+            "Pour the butterscotch and pumpkin mixture into glasses.",
+            "Top with cream soda and whipped cream.",
+            "Drizzle with caramel sauce for extra flavor."
+          ]
+        }
+      ],
+      "Pumpkin Soups": [
+        {
+          "Recipe Name": "Creamy Pumpkin Soup",
+          "Ingredients": [
+            "2 cups of pumpkin puree",
+            "1 onion, chopped",
+            "2 cloves of garlic, minced",
+            "4 cups of vegetable broth",
+            "1/2 cup of heavy cream",
+            "Salt and pepper to taste"
+          ],
+          "Instructions": [
+            "Sauté the onion and garlic in a pot until soft.",
+            "Add the pumpkin puree and vegetable broth, and simmer for 20 minutes.",
+            "Blend the soup until smooth, then return it to the pot.",
+            "Stir in the heavy cream and season with salt and pepper.",
+            "Heat through and serve."
+          ]
+        },
+        {
+          "Recipe Name": "Spicy Pumpkin and Black Bean Soup",
+          "Ingredients": [
+            "2 cups of pumpkin puree",
+            "1 can of black beans, drained and rinsed",
+            "1 red bell pepper, diced",
+            "1 onion, chopped",
+            "2 cloves of garlic, minced",
+            "1 teaspoon of cumin",
+            "1/2 teaspoon of chili powder",
+            "4 cups of vegetable broth",
+            "Sour cream and fresh cilantro for garnish"
+          ],
+          "Instructions": [
+            "Sauté the onion, garlic, and red pepper in a pot until softened.",
+            "Add the pumpkin puree, black beans, and spices.",
+            "Stir in the vegetable broth and simmer for 20 minutes.",
+            "Serve with a dollop of sour cream and a sprinkle of fresh cilantro."
+          ]
+        }
+      ]
+    }
+  }  
